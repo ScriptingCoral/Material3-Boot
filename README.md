@@ -1,6 +1,8 @@
 # Material3-Boot
 A material design 3 theme for rEFInd
 
+## Installation
+
 ### If you haven't already, install rEFInd and git:
 ```
 pacman -S refind git
